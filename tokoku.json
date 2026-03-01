@@ -1,0 +1,22 @@
+{
+  "name": "TOKOKU BARU",
+  "short_name": "TOKOKU",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06084a",
+  "description": "Toko online Simpeltoko Discount - Belanja mudah, cepat, dan hemat di Blogger!",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPxnzgW0OmNC3wPeY8Ob56_JtuqgpHpyJS2om_RNvllbQ9yHgbfYp3whOXSXPCbiP-hTc50bGY9Z79wss2WSKMjf1P8sgFDVdgVHqLr4QKqJizKqPi0gVEtXbcAqBFDl29KDKfigQL4iEUL1DVm9o2QLF9sn2_JC2EixEnrrvVKmOBZ1mwPwHMqa1ISyA/s320/ChatGPT%20Image%2026%20Feb%202026,%2007.51.00.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPxnzgW0OmNC3wPeY8Ob56_JtuqgpHpyJS2om_RNvllbQ9yHgbfYp3whOXSXPCbiP-hTc50bGY9Z79wss2WSKMjf1P8sgFDVdgVHqLr4QKqJizKqPi0gVEtXbcAqBFDl29KDKfigQL4iEUL1DVm9o2QLF9sn2_JC2EixEnrrvVKmOBZ1mwPwHMqa1ISyA/s320/ChatGPT%20Image%2026%20Feb%202026,%2007.51.00.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
